@@ -73,4 +73,4 @@ with gr.Blocks(theme=Base(), title="Riyadh Entertainment Map powered by Smart Se
     # Call query_data_with_map function upon clicking the Submit button
     button.click(query_data_with_map, textbox, outputs=[output1, output2])
 
-demo.launch()
+demo.launch(share=True)
