@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./asset/banner.png" alt="Banner">
+    <img src="./assets/banner.png" alt="Banner">
 </p>
 
 
@@ -7,7 +7,7 @@
 Riyadh GeoFind provides a list of properties in Riyadh city based on user descriptions. The user first describes the desired place, and the AI app will find the desired properites based on their description. The app will plot the found places on the map, providing information such as `unit code`, `name`, `description`, and `location`. Moreover, the app will generate text powered by `Gemini Flash 1.5` to explain each property, including its pros and cons, when there is no exact match for the description. The current version (`MongoDB AI hackathon version`) supports searching by `name`, `location` (south, east, etc.), `description`, and `amenities`. Therefore, the app will return results withen the desired location if it is described by the host (refer to fig 1).
 
 <p align="center">
-    <img src="./asset/mongodb-hackathon/rag-flowchart13112024.png" alt="Banner" width="800">
+    <img src="./assets/mongodb-hackathon/rag-flowchart13112024.png" alt="Banner" width="800">
 </p>
 
 <p align="center">
