@@ -1,0 +1,968 @@
+{
+    "places": [
+        {
+            "name": "ibis Riyadh Olaya Street",
+            "place_id": "ChIJBwmLndcDLz4Rb_gSHrYEvVo",
+            "formatted_address": "Opposite To The Kingdom Tower, Olaya St, Al Olaya, Riyadh 11565, Saudi Arabia",
+            "location": {
+                "lat": 24.7121293,
+                "lng": 46.6767365
+            },
+            "rating": 3.8,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109925896101858728757\">Hotel ibis Riyadh Olaya Street</a>"
+                    ],
+                    "photo_reference": "AdDdOWrFBfAKXapvo43X8HmknrEJx0iU8TOV1XW4-AGZcE1GwIsNeY0ft4sIRUV6jkfdsx81rJ2zabvFdGlxl53p3yRY6gl06vz5HV9wHbaXg0ci9HA0FaNaGt9AEOtVKN-s6ITbiq9dk-PicmCEgo_wDy9OZFCT_CZhu-rP-jEOcoIj4964",
+                    "width": 1024
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 3,
+                    "text": "For the price I paid, I was expecting much more. The good part first, the staffs are courteous and friendly. The place is clean and sufficient. The downsides, the room is very compact, the shower/bathroom are just the right size to fit with little to maneuver, room amenities can be improved."
+                },
+                {
+                    "rating": 4,
+                    "text": "Kartik has been awesome, very welcoming every day and attentive. A credit to the team at Ibis 😊\nBed is comfortable and shower is nice, only downside (a personal preference) is that the non-smoking rooms still smell of smoke and the rooms are a bit tired.\nBut overall, I've felt very welcome!"
+                },
+                {
+                    "rating": 5,
+                    "text": "Love this hotel Everytime I visit Riyadh. Nice location- spacious rooms and even Better is the staff and their hospitality. I had lost my phone and the receptionist Sara and the hotel manager Rakan helped me get back my phone from the taxi guy. Genuine nice people make you feel so comfortable. Highly recommended !"
+                },
+                {
+                    "rating": 2,
+                    "text": "Old hotel in need of immediate renovation, everything is old and outdated. Small rooms. Air conditioning is good but a bit loud. Although I requested a non-smoking room but sometimes a strong smell of cigarette smoke finds itself to my room. No underground parking. Definitely I won't be coming back"
+                },
+                {
+                    "rating": 4,
+                    "text": "The rooms were cozy and clean.\nIf you're on a business trip this is particularly helpful as it does the job for an appropriate cost.\nThe staff is very helpful, but one thing to note is that they did not share any confirmation or receipt through email or what not once i extended my stay at the reception.\nInvoices are requested rather than automatically provided through email.\nThe WiFi did not work so i spent the entire stay working on my hotspot which was a bit inconvenient at times.\nOther than that, i would probably come back due to the cost and quality of rooms provided."
+                }
+            ]
+        },
+        {
+            "name": "Mansard Riyadh, A Radisson Collection Hotel",
+            "place_id": "ChIJbzIZrCLjLj4RiCgZ3xG5tSI",
+            "formatted_address": "4248 Prince Mohammed bin Salman bin Abdulaziz Road, Ar Rabi, Riyadh 13315, Saudi Arabia",
+            "location": {
+                "lat": 24.7836736,
+                "lng": 46.6528016
+            },
+            "rating": 4.7,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4710,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105220786671941236018\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWoWGukqHBcY8pLMH8wWf3nvat-6v9c08JcRosSN82hOnVL38jpO3gL3ZELMj_RuaM7fmGhuB-z79LWWcZcGJgerbWpCfL7r2KdsYVXesLCSc_p8A-9j2b2zeV7yU98mjFdcGOb-0CH7RHUchDkLCKoBz9rQ7wTLZpO2yoPcb_N0Rh2f",
+                    "width": 7061
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "This hotel deserves 7 stars! I loved the rooms, the restaurants, and the staff…what a great experience!!! One team I would like to thank specifically is the banquet team and Noor. There is one area I would suggest to improve is fixing the broken tiles on the ground floor…almost tripped 🙃"
+                },
+                {
+                    "rating": 3,
+                    "text": "The Mansard Hotel in Riyadh provides adequate accommodation that meets basic expectations.\n\nThe property delivers standard amenities and service, though nothing particularly stands out. While not exceptional, it serves its purpose for a comfortable stay.\n\nGood for travelers seeking a straightforward hotel option in Riyadh."
+                },
+                {
+                    "rating": 5,
+                    "text": "A lovely weekend gateway arranged by lovely daughters ❤️❤️  Sharing pictures of the small details made by Mansard 🙏🏼\n\nThe team has been very hospitable and welcoming since I handed my car key. 4 hours after checking in I have received a call from guest relations team checking on us, and asking if we require any additional help.\n\nThe room is very nice and clean, the bed is comfortable as well. As for the Room Service Menu is pretty diverse, and ymmmmmy.\n\nThank you Mansard for making my weekend special 🤩 and paying attention to the smallest details 💕\n\nKeep up the amazing work! Well done 👏"
+                },
+                {
+                    "rating": 5,
+                    "text": "One of the best 5 stars Hotels in Riyadh, super new, amazingly huge, crazy clean, amazing atmosphere, beautiful rooms,the service is magnificent, everyone is smiling and happy to help you, highly recommended for business travelers and family. Received excellent service from the hotel staff.Keep up the amazing work!! Your staff is attentive and fantastic and makes our stay fabulous.Especially thanks to Nazmul the bell boy.\nHis warm welcoming smile, attentiveness, and genuine hospitality made me feel like a valued guest throughout my visit.\nNazmul thank you again 😊"
+                },
+                {
+                    "rating": 3,
+                    "text": "Think again for 1 minute before booking this hotel!\n\nPositive aspects:\n\n- The staff are professional and helpful.\n- A variety of high-quality restaurants are available in the same area.\n\nNegative aspects:\n\n- Air conditioning (AC) issues.\n\nI had to change my room twice due to problems with the AC and poor maintenance. I spent a lot of time changing rooms and waiting for the maintenance team to solve the issue. Additionally, the time spent checking the air conditioning in the room disrupted my privacy and comfort. Despite their efforts, the noise problem persisted. Some areas of the lobby floor felt hotter than others.\n\nIn the end, I had a bad experience and felt uncomfortable because of this issue.\n\nHowever, I would like to thank the following staff members who tried to make my stay easier despite the situation being beyond their control:\n\n- Ms. Hala, Assistant Manager of Relationships\n- Ms. EM, Executive Lounge Service\n- Mr. Palitha, Luggage Porter\n\nIf it weren’t for the AC issues, this hotel would be on my best hotels list.\n\nNote :: I appreciate the hotel management’s efforts to upgrade my room and offer a late check-out to apologize for the inconvenience. However, I faced the same AC issue in the upgraded room and had to go to reception twice to update the key card.\n\nThanks."
+                }
+            ]
+        },
+        {
+            "name": "Braira Al Olaya Hotel",
+            "place_id": "ChIJZ2tPYEIDLz4RcR-XhfcS7C4",
+            "formatted_address": "Olaya St, Al Olaya, Riyadh 12211, Saudi Arabia",
+            "location": {
+                "lat": 24.6853025,
+                "lng": 46.6887939
+            },
+            "rating": 4.3,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 614,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101042261306834871906\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWqtSjUA-43inGZ1r8sECbUuPZT_F19WqYotw_rTeZrMW5-1HtWPRQ1fDivNBbmqzZ5Qveo4Wn3SLUxORv1E5Ok9jCxAnv4HiISKMTNse20V3hPbJE70wvtpc3y2NtJRBddmWr3R0DWsQpOGz6jEZDPFm2LLQNppZfTwa-Ev5EemKcNe",
+                    "width": 1024
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "I am currently staying at the Hotel, and it is a fantastic experience!\nThe staff were incredibly welcoming, especially Mark Anthony, who went above and beyond to ensure my comfort. His kindness and professionalism truly made my stay memorable so far. ⭐️\nThe hotel itself was clean and beautifully designed.\n\nThe only suggestion I have is to add more variety to the breakfast options.\nOverall, I highly recommend for anyone looking for a great place to stay!"
+                },
+                {
+                    "rating": 5,
+                    "text": "I’m currently staying at this hotel and the experience is amazing. Everything about this hotel is incredible. The room design, cleanliness, location and food are 5 stars.\n\nAmal the receptionist is one of the most amazing receptionist I have ever met. She called my room just to check if everything is good 😊 this never happened ever.\n\nI highly recommend this hotel for everyone. I’m definitely coming back here again."
+                },
+                {
+                    "rating": 5,
+                    "text": "I would like to thank the hotel staff for their cheerful smiles in the morning and for assisting us during breakfast. They were always helpful and friendly, making our experience so much better. A special thank you to Mark Anthony for his outstanding support and kindness. Thank you for everything you did!"
+                },
+                {
+                    "rating": 5,
+                    "text": "The receptionist is nice , so the room cleaning is superiors, they care a lot for you when you are in the hotel . The room service is 24 hours available and they have a nice restaurant. Especially the clerks name’s Mohammad Eleas❤️❤️ who’s really responsible for their work. I will return here anyway in the future."
+                },
+                {
+                    "rating": 5,
+                    "text": "Excellent service Gazi, they was incredibly helpful and professional during my stay. They knew exactly how to handle every situation and was very attentive. When I encountered a problem, they solved it quickly and efficiently. I'm grateful for assistance Thanks a lot!"
+                }
+            ]
+        },
+        {
+            "name": "asia hotel",
+            "place_id": "ChIJJQ7Rma0FLz4RuL6ogri8LQg",
+            "formatted_address": "2279 Asad Ibn Al Fourat, Al Amal, Riyadh 12643, Saudi Arabia",
+            "location": {
+                "lat": 24.642408,
+                "lng": 46.7178712
+            },
+            "rating": 3,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113093261243694878063\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWrnRWmqvsz-05Q5OXBVB-V8US8_ffvt9ju73sVPb-asKIuAZav6PlF4phsbAFCEqaQ7_BPZoghI07EJJkjEH1CyU1Hs2nnCuamfb2UxGEkksWZjWZmbVBNuzutpPHWIUzjWS3BirtW9tvS45K6Jzq-sw8bNBUHCP9ES4PUSN2hK655H",
+                    "width": 3000
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 1,
+                    "text": "Just because we are not the same of Nationality and Race. They're not allowing me to invite any visitors, they are forbidden me not to invite any Visitors, as their customer just for one day.\n-\"For me I accept that it's a Racial Discrimination.\"  They don't have any respect for our privacy. Whatever our business, it's our privacy and rights. In Beside we are not making any Noise, we are not making any parties or everything.\n-They don't know about any racial discrimination here, they're education is something very different and even their culture. Just change topic. I respect that's not allowed, but my visitor was humiliated, he is my friend and he's not stranger for me. I cannot do anything because it's their Rule and their business, but for me. I was insulted and even my Visitor. I don't care what people think of us. It's our privacy. 🏳️‍🌈\n-There's an insect and cockroach here. I hope you should spray this room before you enter a customer.\n-They don't provide Bath Towels in the Shower Area. That's the reason why I'm asking my friend to get me some towels.\n-This Hotel also destroys relations."
+                },
+                {
+                    "rating": 1,
+                    "text": "very bad experience with the property. They did not provided room after reaching property. They didn’t inform me before giving my booking to someone else. Complained to booking. Com and sent an email to cancel booking. I lost my sleep and valuable 3.5 hrs due to their irresponsible actions."
+                },
+                {
+                    "rating": 4,
+                    "text": "I would suggest regular inspection and maintenance of their rooms to encourage patrons to come again."
+                },
+                {
+                    "rating": 3,
+                    "text": "Service is not good"
+                },
+                {
+                    "rating": 3,
+                    "text": "If you are looking for a comfortable hotel at an affordable low budget deal, then you may want to check it out."
+                }
+            ]
+        },
+        {
+            "name": "Al DIYAR",
+            "place_id": "ChIJ_VCtjUQELz4R3CcJ7QqBU6M",
+            "formatted_address": "3311 Afzal Al-Hashemi, 6688, Al Malaz, 3275، Riyadh 12629, Saudi Arabia",
+            "location": {
+                "lat": 24.6595917,
+                "lng": 46.7208262
+            },
+            "rating": 2.6,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112178347097823008260\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWojeUGD2Lx7spCKJKfxaVypyT3uxStUexkx2HdYfD0emxpRrzMS6F3y7gZk67ueyWPh8knhosQrkLb_h1KOIHCznI0u7Dto4jzBOjXUZOxeltQJ02ROaM6r1ogFru7CcLJ9ZN0fDP4rvrnkZTtpdE20QUicfk7kaChHDZJGdsvRPeGo",
+                    "width": 3024
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 1,
+                    "text": "Run away. The rooms look good in pictures 👉🏻ONLY👈🏻\nThis hotel seems to be time stuck in the 70s and feels like they never cleaned any room.\nYou can even smell the dust from 70s the moment you'll step foot into a room.\nWe couldn't sleep all night.\nWhat a waste of time and money.\nThe receptionist was somewhat good though.\nNot his fault but the management's.\nBe careful. Find somewhere else."
+                },
+                {
+                    "rating": 1,
+                    "text": "Dreadful, non refundable. Dont use this hotel or agoda this hotel is a night mare. Air condition dont work, dirty stained sheets and pillows, furniture hasn’t been cleaned ever since it opened, washroom has the worst smell, when i asked for clean sheets the person handed me unfolded sheets right out out from the drier."
+                },
+                {
+                    "rating": 1,
+                    "text": "This hotel was the worst experience of my life. The room was dirty and not cleaned at all. The AC wasn’t working, and the staff was completely careless. The bathroom was in such a bad condition that it was hard to stay there. The food was awful, as if it was old. Overall, this hotel was a complete waste of money."
+                },
+                {
+                    "rating": 1,
+                    "text": "If the rating is less than single star, I will give it that rating. The room was very dirty and uncomfortable, with too many insects. I was very disappointed. The air conditioning did not work, and it was very difficult to stay there during the summer without cooling. The people at the reception were rude and illiterate, and the lift was too old with no automatic door, which was a little scary. There was no emergency contact number or alarm button in the lift."
+                },
+                {
+                    "rating": 1,
+                    "text": "The hotel is very old and there is no air conditioning in the rooms. The air conditioning is hot air and the elevator is like you are in a horror movie and not safe for children. A very bad hotel. I do not recommend it."
+                }
+            ]
+        },
+        {
+            "name": "Warwick Riyadh",
+            "place_id": "ChIJtWl2-aIFLz4R5-_fG766bBc",
+            "formatted_address": "King Abdulaziz Rd, Al Malaz, Riyadh 12629, Saudi Arabia",
+            "location": {
+                "lat": 24.6618696,
+                "lng": 46.7180101
+            },
+            "rating": 4.3,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118252167616854366761\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWoXmYHf58idkBgd3JkVF0OeSRfoJbpOfkk7xeBzRC0yg-sAXQvlp0zBB5FoP_ryMyPjncBW4EgSidQxFQsUS9396aWFGVJJs7uFlPRcsK7bxIFHjFeRx9fpiX8iNyoQ_NgmWIgBBj8iESd61LZvvdi6BOdBoPWkVe9fUQW_E5Bl9O5E",
+                    "width": 7360
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "Stayed here in December 2023. It was a very good experience. Totally luxurious feel. They upgraded my room to a suite room and it was fabulous. The breakfast was included and delicious. The only issue was that there was no hot water in the shower and it was cold in December. The places I had to visit was nearby from this hotel. Parking is available here. The price is high but the stay was amazing here."
+                },
+                {
+                    "rating": 5,
+                    "text": "Fantastic place and can recommend fully! I spent almost 2 weeks there now and it was fantastic. We used the Warwick for a work trip which entailed early mornings out of the hotel, they accommodated us leaving before breakfast by making sure we had a breakfast box ready before 5am (Amazing!). Special thank you to TAHER who helped us. Even though it was 4:30-5am in the morning, he always greeted us with a big smile ! Definitely can recommend, the food is great too!"
+                },
+                {
+                    "rating": 4,
+                    "text": "A solid 4 stars for this hotel. Exceptional breakfast and sevice. The hotel manager also gave full attention and asked on our experience in the hotel. The room was very comfortable with ample supplies. The 4 stars is within the scope of the hotel. I would stay with the Warwick again. Thank you."
+                },
+                {
+                    "rating": 5,
+                    "text": "Great experience the staff was very cheerful and welcoming special miss Abrar at the reception"
+                },
+                {
+                    "rating": 4,
+                    "text": "Its a good hotel and they have kept the place neat and sometimes events are conducted here. But their parking is crowded and to comment about their basement parking its horrible very congested for both entering and more horrible when we want to exit"
+                }
+            ]
+        },
+        {
+            "name": "Hilton Riyadh Hotel & Residences",
+            "place_id": "ChIJv8Nkfr_9Lj4ReL4OHi3lCNE",
+            "formatted_address": "6623 Eastern Ring Rd, Ghirnatah, Riyadh 13241, Saudi Arabia",
+            "location": {
+                "lat": 24.7854347,
+                "lng": 46.7281917
+            },
+            "rating": 4.5,
+            "types": [
+                "lodging",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 2600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112324291799368268544\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWoZmHdP-OEp8Qua-c0o8tDeRltUAphrJxXi3t3Ms1BpA97--D2crDHEjcTbaQjjhSUX78IyW8TyxMzdHHy4MSDcUIg4XLczpiuzaJdUm03p49MHLtXvZXt3tjv_ueN7ool7P1fERdLdc8neSo67-r5B7pKXlHsklB9lhxuhJuvxCGGk",
+                    "width": 3900
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "I went for a conference and it included lunch, absolutely amazing! The food was fresh, the variety was very wide, especially when it came to the salads and desserts. The hot dishes were made to perfection. Additionally, the servers were always around checking that everything was right and if we needed anything extra!"
+                },
+                {
+                    "rating": 5,
+                    "text": "One of the best places to stay in Riyadh! The service is perfect, the staff members are extremely friendly and attentive. The hotel is situated right near the Granada mall where you can buy anything you need. The breakfast is extremely rich and luxurious. The rooms are very quiet, clean and equipped with everything. The view from the high floors is fantastic. This is a must to stay place when you are in Riyadh!!!!"
+                },
+                {
+                    "rating": 5,
+                    "text": "“A truly exceptional experience! The prime location near the airport, paired with stunning views, outstanding organization, and state-of-the-art facilities, created the perfect setting. Special thanks and deep appreciation to Ms. Yasmin and her team for their swift responsiveness and unwavering support throughout the three-day sessions, meeting all critical needs to ensure the course’s success.”"
+                },
+                {
+                    "rating": 5,
+                    "text": "Great stay, great breakfast. Rooms very clean. The hotel is huge 900rooms but it is very well organized you don’t feel any crowd or delay. Very fast elevators drop you in the highest floors in seconds. This is how a 5 star hotel should be. You pay a bit more but worth every dollar.\nWell done"
+                },
+                {
+                    "rating": 5,
+                    "text": "One of the most comfortable hotel I’ve ever been, is very clean and the location is great (close to Granada Mall), breakfast buffet was amazing. The staff was really kind and willing to attend any request especially Faulia for the excellent service during my breakfast there. Keep up the good work! :)"
+                }
+            ]
+        },
+        {
+            "name": "فندق باليت كريدي الفاخر Palette Luxury Credi Hotel",
+            "place_id": "ChIJsXOsbLH9Lj4RsuTL2pqbiwM",
+            "formatted_address": "ابو ابكر, At Taawun, Riyadh 12477, Saudi Arabia",
+            "location": {
+                "lat": 24.7702261,
+                "lng": 46.69039
+            },
+            "rating": 3.8,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116402023464455016074\">basma abdullah</a>"
+                    ],
+                    "photo_reference": "AdDdOWr2PITnWLi6oyn2XBjzVrfA6xa8GVALU4TKbVG3TT0W9B1ClQCuBImNpMyt2Xl9swMJrUNNc6jcVcb1hffl2EriMlrXS9eTHycIJGkfJ447NTXQNnJBBoSGNLOkL574dDIcGAPuvtVjI-nUhtZXkpJRwFx4mBjCdqKYu3Hy_nMUx3Hm",
+                    "width": 3024
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "Excellent hotel for the price\nTwo room suite with wonderful beds  and great shower  , comfy sitting room and kitchen  with microwave"
+                },
+                {
+                    "rating": 4,
+                    "text": "Outstanding location near to all Riyadh activity and very easy to access the hotel from different roads .. new renovated hotel with good specious room and nice receptionist that can help and upgrade your room when it is available.."
+                },
+                {
+                    "rating": 2,
+                    "text": "Internet was not working the first 24 hours and after all was ok , we arrived at 6 pm and the room was not ready we have wait one hour , the last problem the swimming pool was closed the water was strange\n\nHonestly the price is litle too high for the service\n\nThe good point is the location and the room was clean"
+                },
+                {
+                    "rating": 3,
+                    "text": "Booked the hotel under the spirits of supporting local business but not an exciting experience at the hotel.\n\nI will give it 3 stars because the room space was alright and they had decent wifi speed and Android TV.\n\nRestaurant staff in the morning was 45mins late to provide breakfast and were unapologetic about it."
+                },
+                {
+                    "rating": 5,
+                    "text": "It’s really comfy and clean\nI highly recommend"
+                }
+            ]
+        },
+        {
+            "name": "Mövenpick Hotel and Residences Riyadh",
+            "place_id": "ChIJmSqNqhDjLj4RrLFSxYVyPGs",
+            "formatted_address": "District, 3478 North Ring Road Exit 4 Al Ghadeer, Riyadh Saudi Arabia",
+            "location": {
+                "lat": 24.7640327,
+                "lng": 46.6532401
+            },
+            "rating": 4.8,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4841,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102493321899708373218\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWqKFcrytZJfg83gv-iR9FhHYfXanxCZOX1E9SolnfVc-py7nofNG0TsptAOR1uS_MD1QEaqu7ymnUjQ3VBBU7UZ5NP5PaYeCwjFsSavAgv2dPd_S86Qfpn_ZbVF1A4T2l-RANTRaikn7R3aZcrFkWFgk2qBboYzypIRDMBFXKXVlzUn",
+                    "width": 7254
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "I recently stayed at the Mövenpick Hotel & Residences in Riyadh, and I must say it was an outstanding experience from start to finish. What stood out the most was the warm and attentive service. The staff went out of their way to ensure everything was perfect, quickly refilling dishes and accommodating special requests. The ambiance of the dining area was also relaxing and inviting, making it the perfect start to the day.\n\nThe highlight of my stay was undoubtedly the breakfast. The variety of dishes offered was impressive, catering to a wide range of tastes and dietary preferences.\n\nFrom freshly baked pastries and local Arabic specialties to an assortment of international cuisine, the breakfast spread was top-notch. The quality of the ingredients was evident in every bite, and the presentation was equally impressive. The live cooking stations added an interactive element, allowing guests to enjoy freshly prepared eggs, pancakes, and waffles just the way they like them.\n\nThe hotel itself is elegant and comfortable. Highly recommended!"
+                },
+                {
+                    "rating": 5,
+                    "text": "I had a fantastic stay at Movenpick. The staff were very friendly, and the breakfast atmosphere was excellent with a variety of dishes to suit all tastes. The location is ideal, right in the heart of Riyadh, close to all services and attractions. The rooms were clean and well equipped, and the amenities like the fitness center and pool enhanced the experience. Overall, a great stay, and I will definitely return on future visits."
+                },
+                {
+                    "rating": 5,
+                    "text": "I had a fantastic stay at this hotel! Every evening from 6 to 7 p.m., they serve authentic Saudi coffee and delicious chocolates made by their talented chef in the lobby. It’s a perfect way to unwind after a busy day. Plus, they have a wonderful kids' club with activities from 5 to 6 p.m. on Thursdays, Fridays, and Saturdays. It kept my children entertained and happy. The restaurant also offers an impressive variety of dishes for both breakfast and lunch, featuring regional specialties from all over Saudi Arabia. Highly recommend this hotel for both families and those looking to enjoy a touch of local culture!"
+                },
+                {
+                    "rating": 5,
+                    "text": "Breakfast is so good. Fresh and delicious. Lots of variety and it is well kept and clean. They service is a perfect mix of buffet style with the coffee being ordered to keep there from being a line.\n\nAnd it is wonderful to have a breakfast and then walk over to the pool for a morning swim before starting the day\n\nClean rooms\n\nNice staff"
+                },
+                {
+                    "rating": 5,
+                    "text": "The hotel is nice, staff are great. Breakfast service is nice and the selections too. I like how nice to talk to the people are. 5 stars will recommend the place to anyone visiting or doing a staycation in Riyadh! Kudos to Jeevan at the breakfast floor :)"
+                }
+            ]
+        },
+        {
+            "name": "voco Riyadh, an IHG Hotel",
+            "place_id": "ChIJQd9IVmoFLz4Ra88AQbpXU3w",
+            "formatted_address": "Opposite of Ministry of Interior, King Fahd Rd, An Namudhajiyah, Riyadh 13003, Saudi Arabia",
+            "location": {
+                "lat": 24.6666516,
+                "lng": 46.69674699999999
+            },
+            "rating": 4.4,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 1367,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108590325403677972436\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWpJ7CdH-85AOiRf1GvYYHDw7IjMhJX4CcpC5ZpZSi7Atx5Tvv4UhXDSdXu1AQPbV_g2H1gU4pmPz59TY76On50-hI3_N-qgHqVHykHrpV77PmlnLWcWge15fdrZdnvASduj_V5MbFn2Q1mi5T0peofjtf2oJQzuIUqYfLVuwy5SetDK",
+                    "width": 2048
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "I had a wonderful stay at the hotel. The room was clean, comfortable, and well-equipped with modern amenities. The location was perfect, with easy access to local attractions and transport. The dining options were excellent, offering a variety of delicious meals. Overall, the hotel provided a relaxing and enjoyable experience, and I would highly recommend it to others.\""
+                },
+                {
+                    "rating": 5,
+                    "text": "Great hotel. I am an IHG member and they treated me very well. I had an issue with my first room as there was some construction going on, the guys moved me as soon as they had an available room. Service is a bit of an issue but that was mainly at the reception. I believe that after some more training, the guys will be 100%. Can't recommend fhe hotel enough. Great place."
+                },
+                {
+                    "rating": 5,
+                    "text": "Had a fantastic stay at Voco! The staff was incredibly accommodating, making sure I was well looked after. The junior suite was spectacular — spacious, beautifully designed, and super comfortable. Definitely a top choice if you're staying in Riyadh!"
+                },
+                {
+                    "rating": 5,
+                    "text": "VOCO Riyadh Hotel’s open buffet is a culinary delight, offering a wide range of international and local dishes. The buffet features fresh seafood, a variety of salads, grilled meats, and decadent desserts. Live cooking stations add excitement, with chefs preparing custom dishes on the spot. The atmosphere is elegant yet welcoming, with beautifully presented dishes that cater to every taste. Service is impeccable, with attentive staff ensuring a top-notch dining experience. Whether for breakfast, lunch, or dinner, the quality, variety, and presentation of the food make this buffet a must-visit for anyone seeking a premium dining experience in Riyadh."
+                },
+                {
+                    "rating": 1,
+                    "text": "One of the worst hotels I have ever tried in my life.\nI booked and paid in October and when I have arrived to the hotel on Nov 7 to make check in they informed me that there's no reservation for me noting that on Nov 6 I have received an email confirmation from Travel perk that my reservation is confirmed.\n\nAfter several hours we found out that the hotel cancelled my reservation without any reason and without informing me!!\nAfter waiting 3 hours at the lobby and after being 11 hours at the airports to reach Saudi Arabia, they decided to rebook for me from Nov 7 until Nov 10 noting that my initial reservation was until Nov 12. So they told me find another hotel for your last 2 days in Riyadh.They were lying and stating that Travel perk cancelled my reservation and at the end we found out that they did it.\n\nThen, on Nov 9 they called and informed me again that i need to leave same day and make check our because the hotel is fully booked noting that my second reservation was until Nov 10 and not Nov 9.\nThought I was dealing with a luxurious hotel but they were very unprofessional. Not recommended at all."
+                }
+            ]
+        },
+        {
+            "name": "فندق روس & Ross Hotel",
+            "place_id": "ChIJP5-6f7YdLz4RhS7QW7QlhDA",
+            "formatted_address": "Al Urubah Rd, Umm Al Hamam Al Gharbi, Riyadh 12328, Saudi Arabia",
+            "location": {
+                "lat": 24.6990286,
+                "lng": 46.6420065
+            },
+            "rating": 4.5,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103902729641218602310\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWpbxsimuD_hymLmRIEDVWvN29Hz9IIHBasEryWfUr0Pv-bzN_OFXKTkLGQPuUtYy1F4W80XokY3F3R0ZKN_bLX23Y3ysE3sEMt2iF81qWhkrqOiO96V4m11xcKX4tC889Uk9X9Wpkz6Wrg8X01Z0DO2dEJPosfRNUSc5Vn5--1Xc3zb",
+                    "width": 7360
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "I had the pleasure of staying at The Ross Hotel for 6 days, and it was a fantastic experience. Ms. Sara stood out with her professionalism in communicating with guests. I wish her all the best for the future!"
+                },
+                {
+                    "rating": 3,
+                    "text": "I recently had an extremely frustrating experience during my stay at a hotel, and I feel compelled to share my disappointment. While the accommodations were comfortable, one major issue left a sour taste in my mouth and ruined an otherwise pleasant stay.\n\nThe breakfast buffet staff strictly forbade guests from taking food back to their rooms, which I found utterly ridiculous and inconvenient. It showed a complete lack of consideration for guests who might be unwell or have unique circumstances. Providing room service or at the very least, allowing guests the option to enjoy their breakfast in their rooms, should be a basic offering.\n\nFurthermore, the monotonous breakfast menu remained unchanged throughout my entire stay. The lack of variety was tedious and uninspiring. A hotel of this caliber should strive to offer a diverse and exciting dining experience, with daily specials or seasonal variations to entice guests.\n\nI left the hotel feeling frustrated and disappointed. I sincerely hope that management takes feedback seriously and makes the necessary improvements. A few simple changes could make all the difference in ensuring guest satisfaction."
+                },
+                {
+                    "rating": 5,
+                    "text": "Thank you, dear Mustafa Afifi and the staff at Ross Hotel. I wanted to take this opportunity to express my sincere gratitude for the exceptional hospitality I received during my recent stay at Ross Hotel. The warmth and professionalism that you and your team showed made my visit truly memorable.\n\nFrom the moment I arrived, I was impressed by the attention to detail and genuine care shown by each and every member of staff. It was clear that everyone was dedicated to providing guests with a comfortable and enjoyable experience.\n\nI look forward to my next stay at your wonderful hotel and will definitely recommend it to others.\n\nBest regards"
+                },
+                {
+                    "rating": 1,
+                    "text": "I checked in the evening of Sept. 16th 2024, and there was no hot water in the tab and shower on 17th's morning. Front desks replied it would be fixed at 9 Am, after the maintenacee staff starts to work, and also suggested to use the cold water, which might not be cold due to high temperature outside.\nThen, on 18th , the hotel WIFI can not be connected to internet. The front dest replied the problem will be solved in an hour. 2 hours later,  it does not work.  I checked again, and got the same reply that it will be solved in an hour. ..."
+                },
+                {
+                    "rating": 4,
+                    "text": "Had to visit our embassy in Riyadh and found Ross Hotel on Bookings which was reasonably priced. After my business at the embassy I went to the hotel with the hope of checking in early. I was pleasantly surprised when a gentleman at reception was so kind to allow me to check in. Thank you Ahmed!\n\nMy first impressions of the hotel were pleasant. The room was clean and the bed very comfortable. I will most definitely stay at Ross hotel again when in Riyadh and can recommend them."
+                }
+            ]
+        },
+        {
+            "name": "تولان قرطبة",
+            "place_id": "ChIJeSkmd-f_Lj4RfHSrlraG9fs",
+            "formatted_address": "Mahdah, Qurtubah, Riyadh 13245, Saudi Arabia",
+            "location": {
+                "lat": 24.8068452,
+                "lng": 46.7512853
+            },
+            "rating": 3.5,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110759914250648001877\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWqWGqDtSK0voMUsYGCZo5KQI41f9U5ODlycz9QDJYyVMZgVMddqHys_7H-bdzJq9n8znZ9h_BWV_QJ79U_Fp_Er9qKzFAAAG82Hwpl_gQPz0JF-07I7t865B5jxwySD4vro2XbqPI4BxuLpPxgdXZ6bqqrQlfIQDcTVyGsJwlSd2xia",
+                    "width": 1200
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "Management and staff is very friendly and helpful, I enjoyed my stay , will prefer to stay again on this hotel insha Allah"
+                },
+                {
+                    "rating": 4,
+                    "text": "My stay at Towlan Qurtubah Hotel was great! The hospitality extended by Mahmod, Shaban, and all the staff was truly remarkable. They were incredibly kind and went above and beyond to ensure a comfortable stay. The hotel amenities were good, and the rooms were spacious and well-maintained. I particularly enjoyed spending time in the cozy lobby. Overall, it was a memorable experience, and the ambience was great. I can't wait to visit again!"
+                },
+                {
+                    "rating": 1,
+                    "text": "Let me make it short and Clear.\n\nThe Hotel was horrible and pathetic service.\nDon’t regret later.\n\nI have waited early morning almost 6hrs even after making the reservation. The amount was deducted.\n\nHighly not recommended"
+                },
+                {
+                    "rating": 1,
+                    "text": "Very bad cleanliness and old and dirty furniture"
+                },
+                {
+                    "rating": 5,
+                    "text": "I think the recent Google reviews of this property are unfair,, because I really found the opposite, clean and good smelling corridor.also clean bed sheets and billow also they provided water bottles as well .. front desk staff specially the female in the morning shift is really helpful and professional"
+                }
+            ]
+        },
+        {
+            "name": "Hilton Garden Inn Riyadh Financial District",
+            "place_id": "ChIJP3BtN8PiLj4RFwDDtSCdLEw",
+            "formatted_address": "3606 Northern Ring Rd, Al Ghadir, Riyadh 13311, Saudi Arabia",
+            "location": {
+                "lat": 24.7650601,
+                "lng": 46.655143
+            },
+            "rating": 4.3,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 2824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113374442105269607322\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWqYYVCaZmR6sH_Oo1EhByp5DR-FJcnCXqJ10I8TNdIOd5FoIgWVfZh3mwoyg5KNqzlu3TW3QX6mPSsFU_2x0I0XxYwu3JG0oagTEF75WNosTlyuYG387eBCfSTVDj1rjXB9NN9pUBRVRG_yGsxDrYVT8Afa7bAjEbIks-m4HQv5LeBS",
+                    "width": 4000
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "A Delightful Buffet Experience at Hilton Garden Inn, Riyadh Financial District\n\nMy recent dinner buffet experience at Hilton Garden Inn in Riyadh’s Financial District was nothing short of spectacular. From the moment I walked in, I was greeted with warm hospitality and a welcoming atmosphere. The restaurant’s modern, elegant décor made for a perfect setting to enjoy a delightful evening.\n\nThe buffet spread was impressive, offering a variety of dishes that catered to every palate. The selection ranged from fresh salads, delicious appetizers, and an array of international and local main courses to mouthwatering desserts. Each dish was thoughtfully prepared, showcasing quality ingredients and attention to detail. I was particularly impressed with the live cooking stations, where chefs expertly prepared dishes to order, adding a personal touch to the experience.\n\nThe standout for me was the flavorful mix of Middle Eastern specialties, especially the succulent grilled meats and traditional dishes that were cooked to perfection. The dessert section was equally indulgent, with a wide selection of sweet treats, from freshly baked pastries to decadent cakes and Arabic sweets.\n\nThe staff were attentive and friendly, ensuring that my dining experience was seamless. They frequently checked in to make sure everything was satisfactory, and their professionalism added to the overall enjoyment of the evening.\n\nOverall, my dinner buffet at Hilton Garden Inn was a fantastic experience. The combination of excellent food, ambiance, and service makes it a must-visit for anyone looking to enjoy a satisfying meal in Riyadh’s bustling financial district."
+                },
+                {
+                    "rating": 5,
+                    "text": "Great business hotel that’s well placed in the city. Clean rooms, comfortable bed. Convenient all day cafe in the lobby. The best part though is the incredible breakfast which is worth skipping dinner to make room for. Excellent service too - a special mention to Pratap Maroua for attention to detail."
+                },
+                {
+                    "rating": 5,
+                    "text": "We have used this hotel before for business travel and we will definitely choose here again. The price, the quality of hotel and rooms is really good and the service across all aspects of the hotel, in our experience is excellent. The gym and restaurant on site are very good.\nA superb example of a friendly home from home. Special mention to Rahat for keeping our room super clean and tidy.\nHighly recommended hotel."
+                },
+                {
+                    "rating": 5,
+                    "text": "* \"Absolutely delicious! The pasta was  cooked to perfection. The service was impeccable, and the atmosphere was cozy. Definitely recommend!\"\nAnd special thank you to Michelle for giving us a wonderful service"
+                },
+                {
+                    "rating": 4,
+                    "text": "Very good (non-luxury) hotel not far from the actual Financial District. The best part of the hotel -- the staff: from the front desk, to the restaurant workers, to the porters, all were very friendly and ultra-accommodating to hotel guests. And we were always greeted warmly with smiles :)"
+                }
+            ]
+        },
+        {
+            "name": "برج داماك الرياض",
+            "place_id": "ChIJWWV2IBsDLz4R_osVOJkfqfo",
+            "formatted_address": "King Fahd Rd, Al Olaya, Riyadh 12333, Saudi Arabia",
+            "location": {
+                "lat": 24.7092748,
+                "lng": 46.6727003
+            },
+            "rating": 3.8,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105624829374163668435\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWpxZ9uG0nTgWw8vWFLq8HUL9S0sy1ClU09fry8oMtLsZlsmHel8Any0TJaZBhQxzTJ1LtjYsnNyzoL0EQQjR8eHqXR_KzTPVI_6P5lE7KYpLzdaet3raOK6RtGnWxVgI_nCFOeH4dcWOXWLl8bC0Iyuss1UnxsGZU5MFUZahI5rNZow",
+                    "width": 1200
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 3,
+                    "text": "The hotel is great and the staff service is excellent and fast. The breakfast is delicious. The cleanliness is acceptable, but there are suggestions for development. One of the rooms needs maintenance. Hot water is not available in some bathrooms. There is no extra blanket for children. Check-in to the hotel was late, after 5:00 pm."
+                },
+                {
+                    "rating": 1,
+                    "text": "Its not a place to stay or sleep specially if you have a family\nThe music loud all night, security of the building can’t stop it and they tell you police won’t help you\nSomeone decided to party with extremely loud music and just no one can stop him or help you out"
+                },
+                {
+                    "rating": 4,
+                    "text": "DAMAC TOWERS RIYAD KING FAHAD ROAD ARE 2 towers about 180 furnished apartments 2 bedrooms 1 bedrooms and studio\nThe price between 850 SR up to 1200 SR\nTHE rooms are 4.5 stars but the management about 2.5 stars the rooms are managed and owned by different owners if you want to rent you can walk on any time you will find one of the brokers in the lobby you can negotiate the price with them\nThe security management are not great the staff always changing because of the management they always quit.\nThe location is great they have long time and short time rent"
+                },
+                {
+                    "rating": 1,
+                    "text": "Worst service hotel, first of all, they don't clean the room and the front desk is unresponsive. They can't communicate in English at all. I've never seen a hotel with such irresponsible service in my life. Even the prices are not cheap."
+                },
+                {
+                    "rating": 1,
+                    "text": "Horrible service ! They are overbooked and they would not provide me with an alternative- simply sorry we can take you and I am on my own. Avoid booking this place a horrible experience. My booking was a month in advance! They rudely turned me away to search for a hotel in a totally booked city due to the ongoing conference."
+                }
+            ]
+        },
+        {
+            "name": "Vittori Palace Hotel",
+            "place_id": "ChIJ8Yl1eP0DLz4RlQXdfvA8khc",
+            "formatted_address": "Al Urubah Rd, King Abdullah Dt., Riyadh 11564, Saudi Arabia",
+            "location": {
+                "lat": 24.7345864,
+                "lng": 46.7433495
+            },
+            "rating": 4.2,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 2922,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108007125005332457176\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWokOjxQG6krKKZKE39AqxLwbbe8XI_NHzFu3hY6vp8MAOEQc1VpQQj4Cv1RyqspoddJCRieSly5fTlLNDW6BoG3xe-2fUGMgKaDt4Anfrj_bQ4rKyz7Dm3bNUFLjLuQ3GKmpxNCeLri-YIMLamNnJCIEr_Tm7YTh4x0A-DQFbr6vIWL",
+                    "width": 7025
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "I had a great experience with this hotel.. I cannot but recommend it to everyone going to Riyadh.\n\nI hope you keep up the good work"
+                },
+                {
+                    "rating": 4,
+                    "text": "Very clean, modern and large room. Dilshad in the dining hall took excellent care of me every breakfast. Staff are helpful and there is plenty of seating in the lobby for meetings. Gym needs to add a water dispenser."
+                },
+                {
+                    "rating": 5,
+                    "text": "I rate the hotel as five star as their service is excellent.I commend staff who’s been extending their quality service beyond what they can offer.Highly appreciated Mr.Chris for  being a good assistant manager.Mr. Rafiq,Eric and Naif for providing a well of service..Very much appreciated your efforts.☺️ Definitely"
+                },
+                {
+                    "rating": 4,
+                    "text": "Nice, Tidy and pleasant stay . A nice fellow named Ismail at breakfast buffet was excellent in customer service ."
+                },
+                {
+                    "rating": 5,
+                    "text": "It’s was great time and people thank u for all of u especially Fisal and Eric  and rafiq and mr Chris so kind people hope you deserve all the good things stay blessed 🙏🏽"
+                }
+            ]
+        },
+        {
+            "name": "JOUDYAN Olaya Riyadh By ELAF",
+            "place_id": "ChIJaYWjTvkDLz4RjdeckVlRWoY",
+            "formatted_address": "6341, Al Olaya, Riyadh 12241, Saudi Arabia",
+            "location": {
+                "lat": 24.6993846,
+                "lng": 46.6827534
+            },
+            "rating": 4.7,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 550,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100928719043848737367\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWoXWSrbdh68tHz2Elhf3vHxrhpLxAdwo-d7yM9iY3ARC1cI5DFBkyxksO5bIa2zAgA1l9r-p-BNcpY1Byc1vRooUTQAx7SuPFaA0nnEDKrNw3ANYW8TNjovGbfjE30jT6YRb-rC9JGPhiF3xL8e5Td2bBz8reIqJSS4A2Xr3Ae7wSuq",
+                    "width": 825
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "I had a wonderful stay at this hotel! The service was excellent, and I want to especially thank Robin for everything. The room was impeccably clean, and the attention to detail truly made my stay comfortable. I highly recommend this hotel for its great service and cleanliness. Thank you again, Robin!"
+                },
+                {
+                    "rating": 5,
+                    "text": "I recently had the pleasure of staying at JOUDYAN Olaya Riyadh by ELAF, and I must say, it was an exceptional experience. The hotel itself is well-appointed and perfectly situated, but what truly stood out to me was the room cleaning service.\n\nFrom the moment I checked in, the staff were welcoming and attentive. The housekeeping team consistently demonstrated an impressive level of professionalism and friendliness. My room was not only spotless upon arrival but also maintained impeccably throughout my stay. Every detail was attended to, from the fresh linens to the thoroughly cleaned bathroom, which reflected a strong commitment to hygiene.\n\nI appreciated how the staff always took the time to greet me with a smile and check if I needed anything. Their warm demeanor made me feel valued as a guest. It’s evident that the cleaning staff takes pride in their work, ensuring that every corner of the room was pristine and inviting.\n\nOverall, my stay at JOUDYAN Olaya was enhanced by the outstanding cleanliness and the friendly nature of the housekeeping team. I highly recommend this hotel for anyone seeking a comfortable and well-maintained stay in Riyadh."
+                },
+                {
+                    "rating": 5,
+                    "text": "I recently stayed at JOUDYAN Olaya Riyadh and was thoroughly impressed with the excellence of their room cleaning services. The housekeeping team truly went above and beyond, ensuring that my room was impeccably clean and comfortable throughout my stay.\n\nThe housekeeping staff was not only skilled but also incredibly cooperative and well-behaved. They consistently greeted me with a smile and were attentive to my needs, making my experience even more enjoyable. Their attention to detail and commitment to cleanliness were evident, and it made a significant difference in my overall stay.\n\nI highly recommend JOUDYAN Olaya Riyadh for anyone looking for a hotel with outstanding housekeeping services. Their team truly sets a high standard for cleanliness and customer service."
+                },
+                {
+                    "rating": 4,
+                    "text": "I recently stayed at this amazing hotel the room service truly exceeded my expectations. From the moment I ordered, the staff was friendly and attentive, making me feel valued as a guest. The food arrived promptly, beautifully presented, and it tasted amazing.\n\nEverything I tried, from breakfast to late-night snacks, was delicious and fresh. The staff went above and beyond to ensure I had everything I needed, which made my stay even more enjoyable.\n\nI highly recommend this hotel for anyone looking for a great experience. The excellent room service really made my stay memorable!"
+                },
+                {
+                    "rating": 4,
+                    "text": "The rooms were nice and clean, only a bit small or maybe it was the one I was in. In general its a nice hotel, but if you have a big car you will have a hard time parking and getting out of the garage. The breakfast buffet didn't have much options I'd give it 3.5 stars for the food, 4 stars for room size and 5 stars for the service. Would recommend for a small business trip."
+                }
+            ]
+        },
+        {
+            "name": "فندق مشارف المدن",
+            "place_id": "ChIJaeTrPanjLj4RGIxBdhvslro",
+            "formatted_address": "مقابل لوكالة الأنباء السعودية, King Fahd Rd, Al Malqa, Riyadh 13326, Saudi Arabia",
+            "location": {
+                "lat": 24.7946927,
+                "lng": 46.6297024
+            },
+            "rating": 4.3,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111822226064617248521\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWpU49jAGFGh71i4xc-duxbr4G3Vek0ghpxoFq31KaAPg5S4aqJOaveW0bM7faYpOGy38VVWqfmhKoQ4hoIZ7P8kR2aAgQCZK88qJSN1MQNa1yq6g77E0ogZnUDivlEz5HGqCVtTnhAI9RlMIhUHTLjX2h-ruabQ4FwJ9pmTERBJ2pCs",
+                    "width": 960
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 1,
+                    "text": "They haven’t confirmed my refund.\n\nThey don’t wanna give it back even they have all our information for the refund.\n\nI have been writing to Ale one of the people that works there.\nHe said we will have the refund in 2 days still. He doesn’t answer my messages."
+                },
+                {
+                    "rating": 1,
+                    "text": "Sadly, i can not rate negative 100 stars.\nIf you like not having a toothbrush or towels or soap. If you enjoy horrible customer service. Then i would still nlt recommend this place. Horrible horrible experience."
+                },
+                {
+                    "rating": 4,
+                    "text": "Good location, very clean and modern interior, would be 5 stars if it was not for this staff member who decided that I need to pay 5 rials for a cup of ice to have with my water!"
+                },
+                {
+                    "rating": 1,
+                    "text": "the owner of this hotel is not polite and trustworthy. all services are not good. Staff are soo rude. one of my friends worked here they did not pay of his services. plesse think first before come you here."
+                },
+                {
+                    "rating": 5,
+                    "text": "thanks for the delicious meal here at the nobles restaurant and the staff or the bosses who assist the guests execellent work👍"
+                }
+            ]
+        },
+        {
+            "name": "Hyatt Place Riyadh Al Sulaimania",
+            "place_id": "ChIJDwT2PAgDLz4RIVDQdEo5JQA",
+            "formatted_address": "8662 Turki Ibn Abdullah Al Saud, As Sulimaniyah, Riyadh 12234, Saudi Arabia",
+            "location": {
+                "lat": 24.7072896,
+                "lng": 46.7084972
+            },
+            "rating": 4.4,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 4912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111234398123868514750\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWp_jGsQH3K8juoeNczNLCwvr_76IPfWXRcGbPkVJFIv7nqw0c1tZJA5Fipkq-cwYlNnE_JVD4apXICPZNPzNLPwR-DJ-GLkOifYL3L8yyI9sti1lmE_xHRZaOekA9oBDO8sLI1urWfFlexFBW9wBSpYuVcW27ZHOx27lfpOShNatgzg",
+                    "width": 7360
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "The hotel is really nice and very clean. The housekeeping service, especially Mohammad Eyasin and Mary Claire has been excellent in keeping everything spotless and comfortable. It definitely adds to the overall positive experience here."
+                },
+                {
+                    "rating": 5,
+                    "text": "Stayed here for 10 nights and everything is very professional run. The rooftop pool is nice to soak at in the evenings. Special kudos to the laundry manager ezzat who was very friendly and made sure i was taken care of throughout my stay"
+                },
+                {
+                    "rating": 5,
+                    "text": "I had a fantastic lunch experience. Nadim the waiter , was exceptional and the best.He was attentive to our needs and always had a smile on his face.\nThe food was absolutely delicious! The flavors were perfectly balanced, and the presentation was beautiful."
+                },
+                {
+                    "rating": 5,
+                    "text": "I can’t say enough about how wonderful the experience was. From the moment I arrived, I was greeted with warm smiles and top-notch service. The check-in process was seamless, and the staff was incredibly helpful, ensuring all my needs were met.\nThe highlight of my stay, however, was the incredible service. The staff especially ezzat mukhtar went above and beyond to ensure my stay was perfect, from offering local tips to accommodating special requests. It’s rare to find such a high level of hospitality, and it truly made my stay unforgettable."
+                },
+                {
+                    "rating": 5,
+                    "text": "I have been staying at this hotel for more than a month and the experience is nothing short of excellent.\nSpecial shoutout to\n\nHousekeeping Staff: Mohammad Eyasin\nChef: Nasir and Badhurdin\n\nMy favourite hotel to stay in Riyadh"
+                }
+            ]
+        },
+        {
+            "name": "Lavera inn hotel",
+            "place_id": "ChIJJeZwnOX_Lj4RCu_Pz7LGA3Y",
+            "formatted_address": "3619 Imam Abdullah Ibn Saud Ibn Abdulaziz Rd، 8479، 3619 طريق الإمام عبدالله بن سعود بن عبدالعزيز، الحمراء، الرياض 13217, Riyadh 13217, Saudi Arabia",
+            "location": {
+                "lat": 24.7901357,
+                "lng": 46.7646396
+            },
+            "rating": 4.2,
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 2872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105068299443994843868\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWoTqB-yqCbFG3ZvjX1rikwNhioowcOQez0W1EvNDQ7q4fzxzGrb6Z4Vcm-ORhBk0AchgVV_UKCoTiu3XUYnKHL6mGMqgdQT2JyRtI7pXUefmMwvc-a6LGsYdxk1BhToXTB5tIe_ZzDD7Wr4BUJz40rMYb_HhBE6OfgDQrp0IDKDG-du",
+                    "width": 3853
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 5,
+                    "text": "My first time in Riyadh, but in this hotel you will feel like home, the staff is not only amazing friendly, but also very professional, all together makes you feel home. Thank you very much to my dear friends Mr. Ehab Mazen and Mr Harun."
+                },
+                {
+                    "rating": 5,
+                    "text": "Excellent facility and staff response especially Andullah Al Otabi and Amjad.\nValue for money and worth stay.\nThank you"
+                },
+                {
+                    "rating": 5,
+                    "text": "Overall the stay was good,I love the stay. Nice hotel. Near Lulu, hyperpanda. Few eating outs are nearby."
+                },
+                {
+                    "rating": 5,
+                    "text": "I had the opportunity to experience the hospitality at this hotel. The ambience is calm, the staff is friendly, and the standard is world class. Mr. Haroon was very kind, courteous, and extremely hospitable. The hotel is ideally located next to hyper panda and very close to Atyaf Mall which has a huge Lulu Hypermarket."
+                },
+                {
+                    "rating": 5,
+                    "text": "This hotel is very fantastic and service is very fabulous thank for abdullah al otaibi"
+                }
+            ]
+        },
+        {
+            "name": "Golden Ship Hotel",
+            "place_id": "ChIJh6Rbwor9Lj4RfF3hkPOkX6g",
+            "formatted_address": "Alalamen, Riyadh 13241, Saudi Arabia",
+            "location": {
+                "lat": 24.7862939,
+                "lng": 46.7309546
+            },
+            "rating": 4.5,
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "business_status": "OPERATIONAL",
+            "photos": [
+                {
+                    "height": 803,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109015691418304888616\">A Google User</a>"
+                    ],
+                    "photo_reference": "AdDdOWpFweWgcjU7ZLbOj8jCCcbvaEmm51K6F9msGddPo41KBS-KR3Y5WGgRHnHIwR8wBo-b99gjF_b3rloNcqMEsrL0bhcmDuLNx1G4F6RqC3SPjxD3sv128Yl5pe2pssIN0LhXUOxmKfeXN80wDQqXiInZVWceGcI2_ICNtwbrxQ39SBm-",
+                    "width": 1280
+                }
+            ],
+            "reviews": [
+                {
+                    "rating": 4,
+                    "text": "Great experience and complimentary ambience.  There are some needs to maintain inside the rooms and washrooms. Service, hospitality and pro-active staff needs to be oriented. The place and view are absolutely perfect. Best recommended to visit and try for another different hotel experience. Kudos to Mam Karim for approaching with honesty and humbleness."
+                },
+                {
+                    "rating": 5,
+                    "text": "The menu and venue we're satisfactory.\nDishes were right according to the taste. The was environment friendly. The staff was very polite and gentle. The taste of food was also delicious. The management and service were also quick. Thanks to Miss Kareema for hospitality."
+                },
+                {
+                    "rating": 1,
+                    "text": "Visited the lunch buffet for the first time, and I have to say, it was incredibly disappointing. Calling this an “international buffet” is honestly misleading. The food was shockingly bland—grilled chicken with zero spices, not even a hint of salt! The desserts looked nice, but that’s where the appeal ended; they tasted just as lifeless as the rest of the meal. Overall, it was a complete waste of money. Safe to say, I won’t be coming back."
+                },
+                {
+                    "rating": 5,
+                    "text": "This place is remarkable. The service provided is of the highest caliber, and the staff members are exceptionally amiable and welcoming. Furthermore, it is a family-friendly environment, making it suitable for individuals of all ages. I shall undoubtedly revisit this place in the future."
+                },
+                {
+                    "rating": 5,
+                    "text": "Excellent service and amazing rooms.\n\nMohammad at the front desk is an amazing guy. Very helpful and goes above and beyond to make you very satisfied. Thank you, Mohammad.\n\nIt was really cool that we got exactly the same room we stayed at the last time. Nice touch!\n\nThis is not our first visit to this hotel, and it definitely won't be the last."
+                }
+            ]
+        }
+    ],
+    "web_results": []
+}

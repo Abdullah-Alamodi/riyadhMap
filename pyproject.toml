@@ -13,4 +13,5 @@ dependencies = [
     "dash>=2.18.2",
     "dash-bootstrap-components>=1.6.0",
     "dash-leaflet>=1.0.15",
+    "googlemaps>=4.10.0",
 ]
