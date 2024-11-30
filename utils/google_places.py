@@ -1,1 +1,0 @@
-# implement the code to retrive places from https://serpapi.com/google-maps-api
