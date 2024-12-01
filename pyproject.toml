@@ -16,6 +16,5 @@ dependencies = [
     "googlemaps",
     "google",
     "beautifulsoup4",
-    "selenium",
-    "webdriver-manager",
+    "js",
 ]

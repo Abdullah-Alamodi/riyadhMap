@@ -3,8 +3,8 @@
 import math
 
 # function to calculate distance between two points.
-def haversine(loc1:tuple, loc2:tuple) -> float:
-	# unpacking the tuple
+def haversine(loc1:list, loc2:list) -> float:
+	# unpacking the list
 	lat1, lon1 = loc1
 	lat2, lon2 = loc2
 	dLat = (lat2 - lat1) * math.pi / 180.0
@@ -22,13 +22,6 @@ def haversine(loc1:tuple, loc2:tuple) -> float:
 	c = 2 * math.asin(math.sqrt(a))
 	return rad * c
 
-# Driver code
-if __name__ == "__main__":
-	loc1 = (24.87425068007454, 46.82029724121094)
-	loc2 = (24.90755801, 46.78645960)
-
-	
-	print(haversine(loc1, loc2), "K.M.")
 
 # This code is contributed 
 # by ChitraNayal
