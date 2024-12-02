@@ -83,7 +83,7 @@ class GooglePlaces:
             return None
 
 # Example usage:
-api_key = 'AIzaSyB1rAHNxzpqmqO009KA7Ck00QYI7875SX0'
+api_key = 'add-your-api-key'
 places = GooglePlaces(api_key)
 data = places.get_place_data('chalet')
 
